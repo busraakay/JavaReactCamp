@@ -1,2 +1,2 @@
 # JavaReactCamp
- Java React Kampı kodlar yer almaktadır.
+ Java React Kampı kodları yer almaktadır.
